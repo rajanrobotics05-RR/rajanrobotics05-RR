@@ -76,3 +76,51 @@ Follow us for practical electronics, robotics projects, workshops and technology
 
 **Rajan Robotics – Vision to Reality**
 
+---
+
+# 🚀 Featured Projects
+
+### 🔴 1. Arduino Digital Clock using TM1637
+
+A practical digital clock using Arduino UNO and a 4-digit 7-segment display.
+
+**Technologies:** Arduino UNO | TM1637 | Embedded C++
+
+[📂 View Source Code](https://github.com/rajanrobotics05-RR/Arduino-TM1637-Digital-Clock)
+
+---
+
+### 🔵 2. STM32 Projects
+
+- GPIO Programming
+- ADC and PWM
+- Timers and Interrupts
+- UART and I2C
+
+*Coming soon*
+
+---
+
+### 🟢 3. ESP32 & IoT Projects
+
+- ESP32 / ESP8266
+- MQTT Communication
+- Sensor Interfacing
+- Wireless Monitoring
+
+*Coming soon*
+
+---
+
+### 🟣 4. FPGA & VLSI Projects
+
+- Shrike Lite FPGA
+- Verilog HDL
+- Digital Logic Design
+- Counters and FSM
+
+*Coming soon*
+
+---
+
+**Learn • Build • Experiment • Innovate**
