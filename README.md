@@ -1,16 +1,71 @@
-## Hi there 👋
+# 🤖 RAJAN ROBOTICS
+### Vision to Reality
 
-<!--
-**rajanrobotics05-RR/rajanrobotics05-RR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Government Recognised Robotics & Embedded Systems Training Company**
 
-Here are some ideas to get you started:
+Welcome to the official GitHub profile of **Rajan Robotics**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We are passionate about teaching, motivating and empowering students to develop practical skills for the future through hands-on learning, electronics, robotics and embedded technology.
+
+---
+
+## 🚀 What We Teach
+
+| Domain | Technologies |
+|---|---|
+| Robotics | Arduino, Sensors, Actuators |
+| Embedded Systems | STM32, ESP32, Raspberry Pi |
+| FPGA & VLSI | Verilog, FPGA Development |
+| Internet of Things | ESP8266, MQTT, IoT |
+| Programming | C, Python, MicroPython |
+| Electronics | Fundamental & Practical Electronics |
+| STEM Education | Hands-on STEM Projects |
+
+---
+
+## 🔧 Technologies We Work With
+
+**Microcontrollers**
+- Arduino UNO
+- ESP8266 / ESP32
+- STM32 Blue Pill
+- Raspberry Pi Pico
+
+**FPGA & Digital Design**
+- Verilog HDL
+- Shrike Lite FPGA
+- Icarus Verilog
+- GTKWave
+
+**Development Tools**
+- Arduino IDE
+- STM32CubeIDE
+- VS Code
+- GitHub
+
+---
+
+## 💻 Our Projects
+
+Explore our practical project repositories:
+
+- [Arduino TM1637 Digital Clock](https://github.com/rajanrobotics05-RR/Arduino-TM1637-Digital-Clock)
+
+More projects coming soon!
+
+---
+
+## 🎯 Our Mission
+
+To make technology education practical, accessible and inspiring.
+
+**Learn • Build • Experiment • Innovate**
+
+---
+
+## 🤝 Connect With Rajan Robotics
+
+Follow us for practical electronics, robotics projects, workshops and technology learning resources.
+
+**Rajan Robotics – Vision to Reality**
+
