@@ -1,7 +1,14 @@
-# 🤖 RAJAN ROBOTICS
-### Vision to Reality
+<p align="center">
+  <img src="RR_Logo_2026.png" alt="Rajan Robotics Logo" width="250">
+</p>
 
-**Government Recognised Robotics & Embedded Systems Training Company**
+<h1 align="center">RAJAN ROBOTICS</h1>
+<h3 align="center">Vision to Reality</h3>
+
+<p align="center">
+  Government Recognised Robotics & Embedded Systems Training Company
+</p>
+
 
 Welcome to the official GitHub profile of **Rajan Robotics**!
 
